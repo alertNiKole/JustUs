@@ -1,6 +1,15 @@
-/* Initial Files to Ignore */
+/*/  Initial Files to Ignore  /*/
 
-/* Ignore Folder */
-
-/.Ignore*
+/* / Ignore Folder of General Files /*/
+./.Ignore
+.Ignore
+.ignore
+.Ignore*
 /.Ignore/*
+
+
+/*/  Ignore Node Modules /*/
+
+/node_modules
+/node_modules*
+/node_modules/*

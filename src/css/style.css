@@ -1,0 +1,87 @@
+/*!/                   Nvy.io  | Designed by NiKole Maxwell            /*/
+/*          Theme: Justus Bar and Grille of VA                           */
+
+/* 
+__________________________________________________________
+                                                       THEME
+__________________________________________________________
+__________________________________________________________
+                                                COLOR SCHEMA
+
+Red:   c82323;
+Black:  rgba(0, 0, 0, 0.61);
+White:  eeeeee; 
+opacity used as needed to create an evening glow
+
+
+__________________________________________________________
+                                                FONT SCHEMA
+
+<link href="https://fonts.googleapis.com/css?family=Great+Vibes|Prosto+One" rel="stylesheet">
+Main
+Accent
+
+__________________________________________________________
+                                            TECHNOLOGIES REPO:
+                                            
+CSS, HTML, Javascript
+Mongodb, Firebase, Mongoose
+
+
+*/
+
+* {
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Prosto One', cursive;
+    background: black;
+    opacity: .75;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    color: #c82323;
+    font-size: 7.5em;
+    margin-left: 15%;
+    background: transparent;
+    position: absolute;
+    z-index: 99;
+    opacity: .9;
+    margin-top: 2em;
+}
+
+
+h2 {
+    font-family: 'Prosto One', cursive;
+    font-size: 1.7em;
+    margin-left: 27%;
+    margin-top: 13em;
+    color: #eeeeee;
+    background: transparent;
+    position: absolute;
+    z-index: 99;
+    line-height: .7;
+    text-shadow: 2px 2px #c82323;
+}
+
+.titleContainer {
+    background: transparent;
+    float: left;
+    position: absolute;
+    z-index: 99;
+}
+
+img {
+    border-style: none;
+}
+
+ul {
+    color: rgba(0, 0, 0, 0.61);
+}
+
+li  a {
+    color: rgba(0, 0, 0, 0.61);
+}
+
+
+

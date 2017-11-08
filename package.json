@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/MaxNvy/JustUs/issues"
   },
-  "homepage": "https://github.com/MaxNvy/JustUs#readme"
+  "homepage": "https://github.com/MaxNvy/JustUs#readme",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
 }
