@@ -1,0 +1,26 @@
+{
+  "name": "justusbar_n_grille",
+  "version": "1.0.0",
+  "description": "idea for website restaurant theme/template -Just Us Bar and Grille of VA",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxNvy/JustUs.git"
+  },
+  "keywords": [
+    "restaurant",
+    "html",
+    "css",
+    "javascript",
+    "express"
+  ],
+  "author": "NiKole Maxwell [nvy.io]",
+  "license": "Unlicense ",
+  "bugs": {
+    "url": "https://github.com/MaxNvy/JustUs/issues"
+  },
+  "homepage": "https://github.com/MaxNvy/JustUs#readme"
+}
